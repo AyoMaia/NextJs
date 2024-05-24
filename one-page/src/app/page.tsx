@@ -69,8 +69,10 @@ export default function Home() {
 
       </section>
 
-      <Product/>
       <Aboutus/>
+
+      <Product/>
+      
       <Forms/>
     </main>
   );
