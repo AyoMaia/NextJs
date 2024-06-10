@@ -1,2 +1,2 @@
 # NextJs
-Projeto Next
+Primeira Landing Page feita com NextJs
